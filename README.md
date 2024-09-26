@@ -4,3 +4,6 @@ Autor Marcus F. Just repozitář pro předmět IS-2024
 
 ## Změna na lokále.
 Datum změny: 2024-09-26, Čas: 16:58
+
+## Změna v GitHubu
+Datum změny: 2024-09-26, Čas: 17:11
