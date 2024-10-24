@@ -46,8 +46,40 @@ class Program{
 
             for(int i=0; i<n; i++){
               myArray[i] = randomNumber.Next(dm, hm+1);
-              Console.WriteLine("{0}; ", myArray[i]);  
+              Console.Write("{0}; ", myArray[i]);  
             }
+
+            int nulove = 0;
+            int zaporne = 0;
+            int kladne = 0;
+            int sude = 0;
+            int liche = 0;
+
+            foreach(int number in myArray){
+                if(number > 0){
+                    kladne++;
+                }
+                 else if(number < 0){
+                    zaporne++;
+                }
+                else{
+                    nulove++;
+                }
+                if(number % 2 == 0){
+                    sude++;
+                }else{
+                    liche++;
+                }
+            };
+
+            Console.WriteLine();
+            Console.WriteLine("Počet kladných čísel: {0}", kladne);
+            Console.WriteLine("Počet záporných čísel: {0}", zaporne);
+            Console.WriteLine("Počet nul: {0}", nulove);
+            Console.WriteLine();
+            Console.WriteLine("Počet sudých čísel: {0}", sude);
+            Console.WriteLine("Počet lichých čísel: {0}", liche);
+
             
 
 
