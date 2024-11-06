@@ -1,0 +1,15 @@
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\bin\Debug\net6.0\program004-3obrazce.exe
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\bin\Debug\net6.0\program004-3obrazce.deps.json
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\bin\Debug\net6.0\program004-3obrazce.runtimeconfig.json
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\bin\Debug\net6.0\program004-3obrazce.dll
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\bin\Debug\net6.0\program004-3obrazce.pdb
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\obj\Debug\net6.0\program004-3obrazce.csproj.AssemblyReference.cache
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\obj\Debug\net6.0\program004-3obrazce.GeneratedMSBuildEditorConfig.editorconfig
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\obj\Debug\net6.0\program004-3obrazce.AssemblyInfoInputs.cache
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\obj\Debug\net6.0\program004-3obrazce.AssemblyInfo.cs
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\obj\Debug\net6.0\program004-3obrazce.csproj.CoreCompileInputs.cache
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\obj\Debug\net6.0\program004-3obrazce.dll
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\obj\Debug\net6.0\refint\program004-3obrazce.dll
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\obj\Debug\net6.0\program004-3obrazce.pdb
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\obj\Debug\net6.0\program004-3obrazce.genruntimeconfig.cache
+D:\škola\IS2024\github-mfj-is-2024-sk3\IS-Projekty\program004-3obrazce\obj\Debug\net6.0\ref\program004-3obrazce.dll
